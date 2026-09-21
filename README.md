@@ -1,5 +1,5 @@
 <!-- 1. BANNER DO PERFIL -->
-<!-- Substitua o link do 'src' pelo link da sua imagem de banner quando criá-la -->
+<img src="https://www.canva.com/design/DAHV3Qc7TJI/KsrHzdzKTU4nSQY-c4rgIg/edit">
 <div align="center">
   <img src="https://via.placeholder.com/1500x300/0d1117/ffffff?text=DAVID+COUTINHO+-+SOFTWARE+DEVELOPER" alt="Banner David Coutinho" width="100%" />
 </div>
