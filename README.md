@@ -1,4 +1,3 @@
-<!-- 1. BANNER DO PERFIL -->
 <div align="center">
 <img src="https://www.canva.com/design/DAHV3Qc7TJI/KsrHzdzKTU4nSQY-c4rgIg/edit" />
 <div align="center">
