@@ -1,9 +1,6 @@
 <div align="center">
-<img src="https://github.com/David-0d/David-0d/blob/main/download.jpeg?raw=true">
-<div align="center">
-  <img src="https://via.placeholder.com/1500x300/0d1117/ffffff?text=DAVID+COUTINHO+-+SOFTWARE+DEVELOPER" />
+  <img src="https://github.com/David-0d/David-0d/blob/main/download.jpeg?raw=true" width="100%">
 </div>
-
 <br>
 
 <!-- 2. ABOUT ME EM FORMATO DE CÓDIGO + GIF/IMAGEM -->
