@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://br.pinterest.com/pin/985231164673555/ />
+<img src="https://github.com/David-0d/David-0d/blob/main/download.jpeg?raw=true">
 <div align="center">
   <img src="https://via.placeholder.com/1500x300/0d1117/ffffff?text=DAVID+COUTINHO+-+SOFTWARE+DEVELOPER" alt="Banner David Coutinho" width="100%" />
 </div>
